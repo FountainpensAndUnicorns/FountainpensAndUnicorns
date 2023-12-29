@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FountainpensAndUnicorns
 - 👀 I’m interested in ...  
-  - short tory writing
+  - short story writing
   - politics
 - 🌱 I’m currently learning how to ...  
   doing data analysis regarding European users (or bots?) on news websites
